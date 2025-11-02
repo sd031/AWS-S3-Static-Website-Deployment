@@ -1,0 +1,3 @@
+# Copy this file to terraform.tfvars and update with your values
+aws_region  = "us-east-1"
+bucket_name = "my-static-website-bucket-unique-name-12345"
